@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SoftKeyboardTutorial</string>
+    <string name="action_settings">設定</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="fast_input_label">自作IME</string>
+    <string name="label_subtype_generic">%s</string>
+    <!-- IME設定のタイトル -->
+    <string name="language_selection_title">入力する言語</string>
+    <string name="select_language">入力言語を選択する</string>
+</resources>
